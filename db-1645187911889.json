@@ -1,0 +1,102 @@
+{
+  "stock": [
+    {
+      "id": 1,
+      "amount": 3
+    },
+    {
+      "id": 2,
+      "amount": 5
+    },
+    {
+      "id": 3,
+      "amount": 2
+    },
+    {
+      "id": 4,
+      "amount": 1
+    },
+    {
+      "id": 5,
+      "amount": 5
+    },
+    {
+      "id": 6,
+      "amount": 10
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "title": "Harry Potter e a Câmara Secreta",
+      "price": 59.9,
+      "image": "https://images-na.ssl-images-amazon.com/images/I/81jbivNEVML.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Volta ao Mundo em 80 Dias",
+      "price": 39.9,
+      "image": "https://m.media-amazon.com/images/P/B08CHHSZCQ.01._SCLZZZZZZZ_SX500_.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Carta de Amor aos Mortos",
+      "price": 19.9,
+      "image": "https://images-na.ssl-images-amazon.com/images/I/817gkSx9uHL.jpg"
+    },
+    {
+      "id": 5,
+      "title": "O Pequeno Principe",
+      "price": 25.6,
+      "image": "https://images-na.ssl-images-amazon.com/images/I/81fXBeYYxpL.jpg"
+    },
+    {
+      "id": 6,
+      "title": "A Máquina do Tempo",
+      "price": 21.5,
+      "image": "https://m.media-amazon.com/images/I/51PAOdotcUL.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Harry Potter e o Cálice de Fogo",
+      "price": 79.9,
+      "image": "https://images-na.ssl-images-amazon.com/images/I/81nTLN-kz7L.jpg"
+    },
+    {
+      "id": 7,
+      "title": "A Culpa é das Estrelas",
+      "price": 17.9,
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61oIS8ewc9L.jpg"
+    },
+    {
+      "id": 9,
+      "title": "A Batalha do Labirinto",
+      "price": 19.9,
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51296wXZxrL._SX332_BO1,204,203,200_.jpg"
+    },
+    {
+      "id": 8,
+      "title": "O Ladrão de Raios",
+      "price": 14.5,
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51prOSSk2YL._SX332_BO1,204,203,200_.jpg"
+    },
+    {
+      "id": 10,
+      "title": "A Maldição do Titã",
+      "price": 17.2,
+      "image": "https://images-na.ssl-images-amazon.com/images/I/71ps3x0cJ9L.jpg"
+    },
+    {
+      "id": 12,
+      "title": "O Teorema Katherine",
+      "price": 27.5,
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61u5cKemLUL.jpg"
+    },
+    {
+      "id": 11,
+      "title": "Cidades de Papel",
+      "price": 23.4,
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51+exx4ax+L._SX326_BO1,204,203,200_.jpg"
+    }
+  ]
+}

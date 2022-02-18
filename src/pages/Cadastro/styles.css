@@ -1,0 +1,39 @@
+.titulo {
+    margin-top: 30px;
+    text-align: center;
+}
+.img{
+    text-align: center;
+    margin-top: 30px;
+}
+.img img {
+    width: 200px;
+    height: 200px;
+}
+.inputs {
+    margin-top: 20px;
+    text-align: center;
+}
+.inputs input {
+    height: 20px;
+    padding-left: 5px;
+    border-radius: 6px;
+    margin-bottom: 10px;
+    border: solid 1px black;
+}
+.btn {
+    text-align: center;
+}
+.btn button {
+    height: 40px;
+    width: 100px;
+    cursor: pointer;
+    margin-top: 20px;
+    border-radius: 10px;
+    border: solid 1px black;
+    background-color: #42a6b6;
+}
+.btn button:hover {
+    color: azure;
+    background-color: #28626b;
+}
